@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package  xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>    
+    <id>Hangfire.MySql2</id>
+    <version>0.0.3</version>
+    <title>Hangfire.MySql2</title>
+    <authors>Andre Melo</authors>
+    <owners>Andre Melo</owners>
+    <licenseUrl>https://raw.githubusercontent.com/andrepontesmelo/Hangfire.MySqlStorage/master/License.md</licenseUrl>
+    <projectUrl>https://github.com/andrepontesmelo/Hangfire.MySqlStorage/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MySql storage implementation of Hangfire, support to MySQL v8</description>
+    <tags>hangfire mysql</tags>
+  </metadata>
+  <files>
+    <file src="../README.md" target="" />
+  </files>
+</package>
